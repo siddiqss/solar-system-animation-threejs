@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from "https://unpkg.com/three@0.144.0/build/three.module.js";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 
 import starsTexture from "../img/stars.jpg";
